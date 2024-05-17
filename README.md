@@ -7,14 +7,17 @@ ___
 # Цель проекта
 ### Веб приложение позволяет использовать промокоды для предоставления скидки их владельцам, а также расширенную работу с корзиной покупок.
 ___
+# Какую проблему решает веб приложение
+### Реализовывает полноценный интернет магазин с богатым функционалом
+___
 # Технологический стек
-* Python
-* Django
-* Django Debug ToolBar
-* django-redisboard
-* PostgreSQL
-* HTML,CSS, JS,
-* Pixso, AdobePhotoshop
-* Redis
-* Docker, Docker-compose
-* NGIN
+* Язык программирования: Python
+* Фреймворк: Django
+* Отладка приложения: Django Debug ToolBar
+* Интеграция Redis c Django: django-redisboard
+* База данных: PostgreSQL
+* Frontend: HTML,CSS, JS,
+* Дизайн: Pixso, AdobePhotoshop
+* Кеширование: Redis
+* Контейнерезация: Docker, Docker-compose
+* Раздача статических файлов: NGINX
