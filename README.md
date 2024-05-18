@@ -15,6 +15,7 @@ ___
 * Фреймворк: Django
 * Отладка приложения: Django Debug ToolBar
 * Интеграция Redis c Django: django-redisboard
+* Кеширования: Redis
 * База данных: PostgreSQL
 * Frontend: HTML,CSS, JS,
 * Дизайн: Pixso, AdobePhotoshop
